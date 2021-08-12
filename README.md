@@ -4,7 +4,7 @@
 
 # Install
 
-- Install the package: <a href="/packaging/installPackage.apexp?p0=04t4J000000tIvu">/packaging/installPackage.apexp?p0=04t4J000000tIvu</a>
+- Install the package: <a href="https://login.salesforce.com/packaging/installPackage.apexp?p0=04t4J000000tIvu">/packaging/installPackage.apexp?p0=04t4J000000tIvu</a>
 - Go to Setup > Installed Packages > State Codes, then click **Configure**
 - Review the included ISO state codes then click **Start Batch**
 
