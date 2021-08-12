@@ -1,4 +1,8 @@
-<apex:page lightningStylesheets="{!CONTAINS($User.UiThemeDisplayed, 'Theme4')}" standardController="AsyncApexJob" extensions="StateCodes" action="{!action}">
+<apex:page action="{!action}"
+extensions="StateCodes"
+standardController="AsyncApexJob"
+setup="{!NOT CONTAINS($User.UiThemeDisplayed, '4')}"
+lightningStylesheets="{!CONTAINS($User.UiThemeDisplayed, '4')}">
     
     <style>
         td.Failed {color: #c00;}
