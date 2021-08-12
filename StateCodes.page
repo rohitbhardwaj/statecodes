@@ -12,7 +12,7 @@ lightningStylesheets="{!CONTAINS($User.UiThemeDisplayed, '4')}">
     <apex:form id="form">
         
         <apex:sectionHeader title="State Codes"
-            help="https://github.com/bigassforce/statecodes"
+            help="https://github.com/mattandneil/statecodes"
             description="{!IF(AsyncApexJob.CompletedDate == null, 'This tool initializes all ISO states by screen scraping the forms in setup.', LINKTO('« Back to start', $Page.StateCodes))}"
         />
         
