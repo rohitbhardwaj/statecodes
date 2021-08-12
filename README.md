@@ -1,6 +1,6 @@
 <a href="https://githubsfdeploy.herokuapp.com?owner=bigassforce&amp;repo=statecodes&amp;ref=master">
 <img align="right" alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
-</a> This tool initializes all ISO states by screen scraping the forms in setup.<br />(State and Country values cannot be created using the Metadata API)
+</a> This tool initializes all ISO states by screen scraping the forms in setup.<br />(State and Country picklist values cannot be created any other way)
 
 # Install
 
